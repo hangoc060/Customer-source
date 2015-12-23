@@ -1,0 +1,120 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.chuyenmon.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.daotao.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.dieuchuyen.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.dkloc.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.dmhsnv.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.dgd.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.frmhd.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.khenthuong.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.nv.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.qtct.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.qtdong_bhxh.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.qtluong.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Ldnv.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Ldnv.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Ldnv.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Ldnv.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsPilot.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Release\Ldnv.pdb
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Ldnv.exe.config
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.exe
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.xml
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.pdb
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Ldnv.exe
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Ldnv.pdb
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Ldnv.xml
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\ClsList.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Clsql.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\ClsMath.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\office.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clsab.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clschat.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clsPopUp.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\ClsPilot.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clsPermit4Field.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clsViDe.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\clsphannhomdm.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\ClsRight.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\ClsStpService.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\office.xml
+E:\Source\acc\7.2\hrm\Ldnv\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.chuyenmon.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.daotao.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.dieuchuyen.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.dkloc.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.dmhsnv.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.Frmmain.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.dgd.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.frmhd.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.frminput.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.khenthuong.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.nv.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.Resources.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.qtct.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.qtdong_bhxh.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.qtluong.resources
+E:\Source\acc\7.2\hrm\Ldnv\obj\Release\Ldnv.vbproj.GenerateResource.Cache
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Ldnv.exe.config
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.exe
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.xml
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.pdb
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Ldnv.exe
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Ldnv.pdb
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Ldnv.xml
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\ClsMath.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\office.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Ionic.Zip.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clsab.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clschat.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clsViDe.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clsPopUp.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\ClsPilot.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clsPermit4Field.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\clsphannhomdm.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\ClsRight.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\ClsStpService.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\office.xml
+E:\Customer\Gas Huong Minh\source\Ldnv\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.chuyenmon.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.daotao.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.dieuchuyen.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.dkloc.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.dmhsnv.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.Frmmain.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.dgd.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.frmhd.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.frminput.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.khenthuong.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.nv.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.Resources.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.qtct.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.qtdong_bhxh.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.qtluong.resources
+E:\Customer\Gas Huong Minh\source\Ldnv\obj\Release\Ldnv.vbproj.GenerateResource.Cache

@@ -98,7 +98,7 @@
     <fieldgrids2>ma_lo,han_sd</fieldgrids2>
     <codelookup>dmlo</codelookup>
     <isnullable>false</isnullable>
-    <ckey>ma_vt = @[ma_vt]</ckey>
+    <ckey>ma_vt = @[ma_vt] and han_sd = @[han_sd]</ckey>
     <lookup_yn>true</lookup_yn>
     <not_isnullable_when>exists(select 1 from dmvt where ma_vt =@[ma_vt] and lo_yn = 1)</not_isnullable_when>
     <readonly_when>exists(select 1 from dmvt where ma_vt =@[ma_vt] and lo_yn = 0)</readonly_when>

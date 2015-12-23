@@ -1,0 +1,38 @@
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Vxhd.exe.config
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Vxhd.exe
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Vxhd.pdb
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Vxhd.xml
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\clsab.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.frmThuTien.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.frminput.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.Resources.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.exe
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.xml
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Debug\Vxhd.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Debug\Vxhd.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Debug\Vxhd.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Debug\Vxhd.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Debug\Vxhd.pdb
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Debug\Vxhd.exe.config
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Debug\Vxhd.exe
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Debug\Vxhd.xml
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Debug\Vxhd.pdb

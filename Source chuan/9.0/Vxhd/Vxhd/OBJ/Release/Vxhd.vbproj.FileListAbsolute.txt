@@ -1,0 +1,137 @@
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Vxhd.xml
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.exe
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.xml
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+D:\Source\acc\5.0\voucher\Vxhd\Vxhd\bin\Release\clschat.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.exe
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.xml
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.xml
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Clsql.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsRight.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsStpService.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsSV31.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsVno.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsab.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clschat.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsViDe.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsMath.dll
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+D:\Source\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.exe
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.xml
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.exe
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Vxhd.xml
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsab.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clschat.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+E:\Box Sync\acc\7.1\voucher\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.exe
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.xml
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\Vxhd.exe
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\Vxhd.xml
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\clsViDe.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\ClsMath.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\clsab.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\clschat.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\ClPrint.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\bin\Release\ClsVno.dll
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache

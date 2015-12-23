@@ -1,0 +1,145 @@
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.Form1.resources
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.Resources.resources
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.exe
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.pdb
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.xml
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\Clsql.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsab.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.exe
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.xml
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clschat.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.frmError.resources
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.exe
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.xml
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.exe
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.pdb
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\tgxuat.xml
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsVno.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\Ionic.Zip.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsab.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clschat.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsViDe.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\clsPopUp.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsRight.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\bin\Release\ClsMath.dll
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.Form1.resources
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.frmError.resources
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.Resources.resources
+E:\Source\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.exe
+E:\Box Sync\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.xml
+E:\Box Sync\acc\5.0\sys\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.exe
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.xml
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\tgxuat.exe
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\tgxuat.pdb
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\tgxuat.xml
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\clsab.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\clschat.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.frmError.resources
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.Resources.resources
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.5\tgxuat\tgxuat\obj\Release\tgxuat.Form1.resources
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.exe
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.xml
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.exe
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.pdb
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.xml
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsVno.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\Ionic.Zip.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsab.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clschat.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsViDe.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsPopUp.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsRight.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsMath.dll
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.Form1.resources
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.frmError.resources
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.Resources.resources
+E:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.exe
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.xml
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.pdb
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.exe
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.pdb
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\tgxuat.xml
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsVno.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\Ionic.Zip.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsab.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clschat.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsViDe.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\clsPopUp.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsRight.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\bin\Release\ClsMath.dll
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\ResolveAssemblyReference.cache
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.Form1.resources
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.frmError.resources
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.Resources.resources
+D:\Customer\Le Thanh\source\tgxuat\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.exe
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.xml
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.pdb
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\tgxuat.exe
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\tgxuat.pdb
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\tgxuat.xml
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.Form1.resources
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.frmError.resources
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.5\tgxuat_new\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.exe
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.xml
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.pdb
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\tgxuat.exe
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\tgxuat.pdb
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\tgxuat.xml
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.frmError.resources
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache

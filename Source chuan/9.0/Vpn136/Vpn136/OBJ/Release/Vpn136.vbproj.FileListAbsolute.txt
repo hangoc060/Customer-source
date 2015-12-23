@@ -1,0 +1,104 @@
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frminput.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Resources.resources
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn136.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.pdb
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.xml
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.exe
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.xml
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.pdb
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe.config
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmThanhToan.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe.config
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.exe
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.xml
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.pdb
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.pdb
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Vpn1.xml
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsab.dll
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsViDe.dll
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\bin\Release\ClsMath.dll
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmdklayhd.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmPrint.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmsearch.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmThanhToan.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Frmmain.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frminput.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Resources.resources
+E:\Box Sync\acc\5.0\voucher\Vpn136\Vpn136\obj\Release\Vpn136.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe.config
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.exe
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.xml
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\Vpn1.exe
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\Vpn1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\Vpn1.xml
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmdklayhd.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frmThanhToan.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn1.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vpn136\Vpn136\obj\Release\Vpn136.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Vpn1.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Vpn1.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Vpn1.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Vpn1.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Clsql.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsSV31.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn136.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.frmThanhToan.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn136.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpn136\Vpn136\obj\Release\Vpn1.exe

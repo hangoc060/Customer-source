@@ -1,0 +1,47 @@
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.frminput.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.Resources.resources
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn436.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\Vpn4.exe
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\Vpn4.pdb
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\Vpn4.xml
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.exe
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.xml
+D:\Source\acc\5.0\voucher\Vpn436\Vpn436\obj\Release\Vpn4.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\Vpn4.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\Vpn4.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\Vpn4.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\Vpn4.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn436.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn4.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpn436\Vpn436\obj\Release\Vpn436.vbproj.GenerateResource.Cache

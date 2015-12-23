@@ -1,0 +1,94 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsSV31.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmdklayhd.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmPrint.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmsearch.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.pdb
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.exe
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.xml
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.pdb
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.exe
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.pdb
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.xml
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frminput.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Resources.resources
+D:\Source\acc\5.0\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.vbproj.GenerateResource.Cache
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.exe
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.xml
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.pdb
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.exe
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.pdb
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.xml
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsMath.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsab.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsVno.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsPopUp.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmdklayhd.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmPrint.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmsearch.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Frmmain.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frminput.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Resources.resources
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.vbproj.GenerateResource.Cache
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsControl2.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsLookup.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Clsql.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsRight.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsStpService.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsSV31.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clschat.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsViDe.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.exe
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.xml
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.exe
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Vhd3_BL.xml
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmdklayhd.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vhd3_BL\Vhd3_BL\obj\Release\Vhd3_BL.vbproj.GenerateResource.Cache

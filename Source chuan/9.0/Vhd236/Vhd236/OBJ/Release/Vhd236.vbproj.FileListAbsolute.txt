@@ -1,0 +1,212 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Clsql.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsRight.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clschat.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clschat.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\office.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\office.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.exe
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Vhd2.xml
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Clsql.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.exe
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.xml
+C:\Users\Truong\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Vhd2.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Vhd2.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Clsql.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsSV31.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd236.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache

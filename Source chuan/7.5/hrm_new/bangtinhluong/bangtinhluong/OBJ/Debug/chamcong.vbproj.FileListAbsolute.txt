@@ -1,0 +1,5 @@
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.MainForm.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.Resources.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.vbproj.GenerateResource.Cache

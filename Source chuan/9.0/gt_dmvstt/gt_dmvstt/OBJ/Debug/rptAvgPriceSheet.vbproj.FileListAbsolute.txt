@@ -1,0 +1,32 @@
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.Resources.resources
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\rptAvgPriceSheet.exe
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\rptAvgPriceSheet.pdb
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\rptAvgPriceSheet.xml
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.exe
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.xml
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\obj\Debug\rptAvgPriceSheet.pdb
+D:\SOURCE\CRM\Rpt\rptAvgPriceSheet\rptAvgPriceSheet\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptGt_bcth\rptGt_bcth\obj\Debug\rptAvgPriceSheet.exe
+E:\STP SOURCE\ACC\3.0\Rpt\rptGt_bcth\rptGt_bcth\obj\Debug\rptAvgPriceSheet.xml
+E:\STP SOURCE\ACC\3.0\Rpt\rptGt_bcth\rptGt_bcth\obj\Debug\rptAvgPriceSheet.pdb

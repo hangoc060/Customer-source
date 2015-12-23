@@ -1,0 +1,44 @@
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Ldnv.exe.config
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Ldnv.exe
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Ldnv.pdb
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Ldnv.xml
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsControl2.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsList.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsLookup.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Clsql.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsRpt.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsMath.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\Ionic.Zip.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\clsab.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClPrint.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\clsViDe.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\clsPopUp.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsPilot.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\clsPermit4Field.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsVno.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsRight.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\bin\Debug\ClsStpService.dll
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\ResolveAssemblyReference.cache
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.chuyenmon.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.daotao.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.dieuchuyen.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.dkloc.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.dmhsnv.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.Frmmain.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.dgd.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.frmhd.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.frminput.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.khenthuong.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.nv.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.Resources.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.qtct.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.qtdong_bhxh.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.qtluong.resources
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.vbproj.GenerateResource.Cache
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.exe
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.xml
+D:\_Data\STP\STP_Chuan\Source_nhansu\Ldnv\obj\Debug\Ldnv.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\bin\Debug\Ldnv.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Debug\Ldnv.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Debug\Ldnv.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\Source_nhansu\Ldnv\obj\Debug\Ldnv.pdb

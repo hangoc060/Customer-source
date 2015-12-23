@@ -1,0 +1,67 @@
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsPermit4Field.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsRpt.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsphannhomdm.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmMain.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.customer.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\Eval3.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\PhoneManagement.exe.config
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.exe
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.xml
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.pdb
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\PhoneManagement.exe
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\PhoneManagement.pdb
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\PhoneManagement.xml
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clsViDe.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\ClsMath.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clsPopUp.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clsPermit4Field.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\ClsRpt.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\ClPrint.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clsphannhomdm.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clsab.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\Eval3.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\clschat.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\ClsPilot.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Release\stdole.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.customer.resources
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.Form1.resources
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.frmMain.resources
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.Resources.resources
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Release\PhoneManagement.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmlistkh.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmselector.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmordertmp.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsList.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\Clsql.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsSV31.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmformprint.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\stdole.dll

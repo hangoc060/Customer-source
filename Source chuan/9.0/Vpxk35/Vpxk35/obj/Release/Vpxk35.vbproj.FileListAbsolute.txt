@@ -1,0 +1,68 @@
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frminput.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.Resources.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk35.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.exe
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.pdb
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.xml
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.exe
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.xml
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.pdb
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmFindHD2.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\System.Windows.Forms.DataVisualization.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.exe
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.xml
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.pdb
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.exe
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.pdb
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Vpxk.xml
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsab.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsViDe.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Release\ClsMath.dll
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmFindHD2.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmPrint.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frmsearch.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.Frmmain.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.frminput.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk.Resources.resources
+E:\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Release\Vpxk35.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\Vpxk.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\Vpxk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\Vpxk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\Vpxk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk35.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frmFindHD2.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk35.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Release\Vpxk.frmCreateFromDM.resources

@@ -1,0 +1,248 @@
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\clsViDe.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\DriveInfoEx.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsSqlRemoting.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\ClsMath.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Interop.Excel.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\office.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\clsPopUp.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\CRM\Source\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+E:\CRM\Source\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+D:\SOURCE\CRM\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\List\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe.config
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsPilot.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe.config
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\clsab.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClPrint.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsPilot.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dqddvt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.dkloc.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Frmmain.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.Resources.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Debug\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsList.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Debug\System.Windows.Forms.DataVisualization.dll

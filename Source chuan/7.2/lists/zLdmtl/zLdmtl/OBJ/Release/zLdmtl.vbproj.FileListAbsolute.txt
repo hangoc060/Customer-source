@@ -1,0 +1,122 @@
+D:\zLdmtl\zLdmtl\bin\Release\zLdmtl.exe
+D:\zLdmtl\zLdmtl\bin\Release\zLdmtl.pdb
+D:\zLdmtl\zLdmtl\bin\Release\zLdmtl.xml
+D:\zLdmtl\zLdmtl\bin\Release\ClsControl2.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsList.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsLookup.dll
+D:\zLdmtl\zLdmtl\bin\Release\Clsql.dll
+D:\zLdmtl\zLdmtl\bin\Release\DriveInfoEx.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsVno.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsRight.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsMath.dll
+D:\zLdmtl\zLdmtl\bin\Release\clsab.dll
+D:\zLdmtl\zLdmtl\bin\Release\Interop.Excel.dll
+D:\zLdmtl\zLdmtl\bin\Release\office.dll
+D:\zLdmtl\zLdmtl\bin\Release\ClsSqlRemoting.dll
+D:\zLdmtl\zLdmtl\bin\Release\clsPopUp.dll
+D:\zLdmtl\zLdmtl\bin\Release\Ionic.Zip.dll
+D:\zLdmtl\zLdmtl\bin\Release\Microsoft.Vbe.Interop.dll
+D:\zLdmtl\zLdmtl\bin\Release\clsPermit4Field.dll
+D:\zLdmtl\zLdmtl\obj\Release\ResolveAssemblyReference.cache
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.Frmmain.resources
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.frminput.resources
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.Resources.resources
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.vbproj.GenerateResource.Cache
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.exe
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.xml
+D:\zLdmtl\zLdmtl\obj\Release\zLdmtl.pdb
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\zLdmtl.exe
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\zLdmtl.pdb
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\zLdmtl.xml
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsControl2.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsList.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsLookup.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Clsql.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\DriveInfoEx.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\office.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Ionic.Zip.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clsab.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clschat.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clsViDe.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clsPopUp.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clsPermit4Field.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\clsphannhomdm.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsRight.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsStpService.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Interop.Excel.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsSqlRemoting.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\ClsMath.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\office.xml
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.Frmmain.resources
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.frminput.resources
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.Resources.resources
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.vbproj.GenerateResource.Cache
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.exe
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.xml
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Release\zLdmtl.pdb
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.exe
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.xml
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.pdb
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.exe
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.pdb
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.xml
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsControl2.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsList.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsLookup.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Clsql.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\office.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsab.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clschat.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsViDe.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsPopUp.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsPermit4Field.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsphannhomdm.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsRight.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsStpService.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsMath.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\office.xml
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.Frmmain.resources
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.frminput.resources
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.Resources.resources
+E:\Source\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.exe
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.pdb
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.exe
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.pdb
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\zLdmtl.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\office.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\clsphannhomdm.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\office.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.frminput.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.Resources.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Release\zLdmtl.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsList.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Release\Eval3.dll

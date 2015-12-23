@@ -1,0 +1,176 @@
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Vpxc.exe
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Vpxc.pdb
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Vpxc.xml
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsSV.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsVno.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Form.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Control.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.frmPrint.resources
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.frmsearch.resources
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.Frmmain.resources
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.frminput.resources
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.Resources.resources
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.exe
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.xml
+D:\SOURCE\CRM\Vpxc\Vpxc\obj\Debug\Vpxc.pdb
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.exe
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.xml
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.pdb
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Vpxc.exe
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Vpxc.pdb
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Vpxc.xml
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsSV.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.frmPrint.resources
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.frmsearch.resources
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.Frmmain.resources
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.frminput.resources
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.Resources.resources
+D:\SOURCE\ACC\Voucher\Vpxc\Vpxc\obj\Debug\Vpxc.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.exe
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.xml
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.pdb
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.exe
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.pdb
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.xml
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsSV.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frmPrint.resources
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frmsearch.resources
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.Frmmain.resources
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frminput.resources
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.Resources.resources
+D:\SOURCE\ACC\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Vpxc.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsSV.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\DriveInfoEx.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\clsViDe.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsSqlRemoting.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frmPrint.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frmsearch.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.frminput.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.Resources.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpxc20\Vpxc20\obj\Debug\Vpxc.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.vbproj.GenerateResource.Cache
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.exe
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.pdb
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.exe
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.pdb
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Vpxc.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClPrint.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsControl2.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsLookup.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Clsql.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsRight.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsStpService.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsSV31.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\office.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Ionic.Zip.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\clsab.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\clschat.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\clsViDe.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\clsPopUp.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsVno.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\ClsMath.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\office.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frmPrint.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frmsearch.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.Frmmain.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.frminput.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.Resources.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Debug\Vpxc.vbproj.GenerateResource.Cache

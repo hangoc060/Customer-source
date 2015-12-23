@@ -1,0 +1,85 @@
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.exe
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.pdb
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.xml
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsRpt.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsPilot.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.frmfilter.resources
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.MainForm.resources
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.Resources.resources
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.exe
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.xml
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.pdb
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSV.dll
+D:\SOURCE\ACC\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.exe
+E:\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.xml
+E:\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\DriveInfoEx.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSqlRemoting.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\office.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.MainForm.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\rptdoitrangthaict.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSV31.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsPilot.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\Interop.Excel.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\office.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSV31.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\ClsSV31.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\bin\Debug\office.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.frmfilter.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.MainForm.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.exe
+E:\Box Sync\acc\7.2\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.xml
+E:\Box Sync\acc\7.2\rpt\rptdoitrangthaict\rptdoitrangthaict\obj\Debug\rptdoitrangthaict.pdb

@@ -1,0 +1,124 @@
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frminput.resources
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Resources.resources
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt135.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.exe
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.xml
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.pdb
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\Vpt1.exe
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\Vpt1.pdb
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\Vpt1.xml
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\bin\Release\clschat.dll
+D:\Source\acc\5.0\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmdklayhd.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.exe
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.xml
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.pdb
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.exe
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.pdb
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.xml
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Clsql.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsRight.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsStpService.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsSV31.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsab.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clschat.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsViDe.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsPopUp.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsMath.dll
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmdklayhd.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmPrint.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmsearch.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Frmmain.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frminput.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Resources.resources
+D:\Source\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt135.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.exe
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.xml
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.pdb
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.exe
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.pdb
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Vpt1.xml
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsab.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clschat.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmdklayhd.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmPrint.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmsearch.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Frmmain.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frminput.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Resources.resources
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\obj\Release\Vpt135.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsSV31.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\office.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\office.xml
+E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsSV31.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\office.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\office.xml
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmdklayhd.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt135.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Vpt1.exe
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Vpt1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\bin\Release\Vpt1.xml
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.exe
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.xml
+E:\Box Sync\acc\7.2\voucher\Vpt135\Vpt135\obj\Release\Vpt1.pdb

@@ -22,46 +22,50 @@ Partial Class frmsearch
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.txtso_ct = New System.Windows.Forms.TextBox
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.ten_vt = New System.Windows.Forms.Label
-        Me.txtma_vt = New System.Windows.Forms.TextBox
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.ten_tk_co = New System.Windows.Forms.Label
-        Me.txttk_co = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.ten_tk_no = New System.Windows.Forms.Label
-        Me.txttk_no = New System.Windows.Forms.TextBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.TxtDen_ngay = New ClsControl2.TxtDate
-        Me.Txttu_ngay = New ClsControl2.TxtDate
-        Me.lblten_nv = New System.Windows.Forms.Label
-        Me.txtma_nv = New System.Windows.Forms.TextBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.lblten_khach = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txtma_kh = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.btntim = New System.Windows.Forms.Button
-        Me.btnhuy = New System.Windows.Forms.Button
-        Me.ten_dt = New System.Windows.Forms.Label
-        Me.txtma_dt = New System.Windows.Forms.TextBox
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.ten_phi = New System.Windows.Forms.Label
-        Me.txtma_phi = New System.Windows.Forms.TextBox
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.ten_bp = New System.Windows.Forms.Label
-        Me.txtma_bp = New System.Windows.Forms.TextBox
-        Me.Label10 = New System.Windows.Forms.Label
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.ten_dt = New System.Windows.Forms.Label()
+        Me.txtma_dt = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.ten_phi = New System.Windows.Forms.Label()
+        Me.txtma_phi = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.ten_bp = New System.Windows.Forms.Label()
+        Me.txtma_bp = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtso_ct = New System.Windows.Forms.TextBox()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.ten_vt = New System.Windows.Forms.Label()
+        Me.txtma_vt = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.ten_tk_co = New System.Windows.Forms.Label()
+        Me.txttk_co = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.ten_tk_no = New System.Windows.Forms.Label()
+        Me.txttk_no = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.TxtDen_ngay = New ClsControl2.TxtDate()
+        Me.Txttu_ngay = New ClsControl2.TxtDate()
+        Me.lblten_nv = New System.Windows.Forms.Label()
+        Me.txtma_nv = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.lblten_khach = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtma_kh = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.btntim = New System.Windows.Forms.Button()
+        Me.btnhuy = New System.Windows.Forms.Button()
+        Me.txtso_hd = New System.Windows.Forms.TextBox()
+        Me.Label11 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
         'GroupBox1
         '
         Me.GroupBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.txtso_hd)
+        Me.GroupBox1.Controls.Add(Me.Label11)
         Me.GroupBox1.Controls.Add(Me.ten_dt)
         Me.GroupBox1.Controls.Add(Me.txtma_dt)
         Me.GroupBox1.Controls.Add(Me.Label6)
@@ -96,6 +100,84 @@ Partial Class frmsearch
         Me.GroupBox1.Size = New System.Drawing.Size(599, 296)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
+        '
+        'ten_dt
+        '
+        Me.ten_dt.AutoSize = True
+        Me.ten_dt.Location = New System.Drawing.Point(233, 252)
+        Me.ten_dt.Name = "ten_dt"
+        Me.ten_dt.Size = New System.Drawing.Size(34, 13)
+        Me.ten_dt.TabIndex = 93
+        Me.ten_dt.Text = "ten dt"
+        '
+        'txtma_dt
+        '
+        Me.txtma_dt.Location = New System.Drawing.Point(130, 248)
+        Me.txtma_dt.Name = "txtma_dt"
+        Me.txtma_dt.Size = New System.Drawing.Size(100, 20)
+        Me.txtma_dt.TabIndex = 10
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(5, 252)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(68, 13)
+        Me.Label6.TabIndex = 92
+        Me.Label6.Tag = "F03"
+        Me.Label6.Text = "ma doi tuong"
+        '
+        'ten_phi
+        '
+        Me.ten_phi.AutoSize = True
+        Me.ten_phi.Location = New System.Drawing.Point(233, 227)
+        Me.ten_phi.Name = "ten_phi"
+        Me.ten_phi.Size = New System.Drawing.Size(39, 13)
+        Me.ten_phi.TabIndex = 91
+        Me.ten_phi.Text = "ten phi"
+        '
+        'txtma_phi
+        '
+        Me.txtma_phi.Location = New System.Drawing.Point(130, 223)
+        Me.txtma_phi.Name = "txtma_phi"
+        Me.txtma_phi.Size = New System.Drawing.Size(100, 20)
+        Me.txtma_phi.TabIndex = 9
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(5, 227)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(39, 13)
+        Me.Label8.TabIndex = 90
+        Me.Label8.Tag = "F02"
+        Me.Label8.Text = "Ma phi"
+        '
+        'ten_bp
+        '
+        Me.ten_bp.AutoSize = True
+        Me.ten_bp.Location = New System.Drawing.Point(233, 201)
+        Me.ten_bp.Name = "ten_bp"
+        Me.ten_bp.Size = New System.Drawing.Size(37, 13)
+        Me.ten_bp.TabIndex = 89
+        Me.ten_bp.Text = "ten bp"
+        '
+        'txtma_bp
+        '
+        Me.txtma_bp.Location = New System.Drawing.Point(130, 197)
+        Me.txtma_bp.Name = "txtma_bp"
+        Me.txtma_bp.Size = New System.Drawing.Size(100, 20)
+        Me.txtma_bp.TabIndex = 8
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(5, 201)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(64, 13)
+        Me.Label10.TabIndex = 88
+        Me.Label10.Tag = "F01"
+        Me.Label10.Text = "Ma bo phan"
         '
         'txtso_ct
         '
@@ -194,6 +276,7 @@ Partial Class frmsearch
         '
         'TxtDen_ngay
         '
+        Me.TxtDen_ngay.Culture = New System.Globalization.CultureInfo("vi-VN")
         Me.TxtDen_ngay.Location = New System.Drawing.Point(236, 41)
         Me.TxtDen_ngay.Mask = "00/00/0000"
         Me.TxtDen_ngay.Name = "TxtDen_ngay"
@@ -299,83 +382,23 @@ Partial Class frmsearch
         Me.btnhuy.Text = "Huy"
         Me.btnhuy.UseVisualStyleBackColor = True
         '
-        'ten_dt
+        'txtso_hd
         '
-        Me.ten_dt.AutoSize = True
-        Me.ten_dt.Location = New System.Drawing.Point(233, 252)
-        Me.ten_dt.Name = "ten_dt"
-        Me.ten_dt.Size = New System.Drawing.Size(34, 13)
-        Me.ten_dt.TabIndex = 93
-        Me.ten_dt.Text = "ten dt"
+        Me.txtso_hd.Location = New System.Drawing.Point(360, 15)
+        Me.txtso_hd.Name = "txtso_hd"
+        Me.txtso_hd.Size = New System.Drawing.Size(100, 20)
+        Me.txtso_hd.TabIndex = 94
+        Me.txtso_hd.TabStop = False
         '
-        'txtma_dt
+        'Label11
         '
-        Me.txtma_dt.Location = New System.Drawing.Point(130, 248)
-        Me.txtma_dt.Name = "txtma_dt"
-        Me.txtma_dt.Size = New System.Drawing.Size(100, 20)
-        Me.txtma_dt.TabIndex = 10
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(5, 252)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(68, 13)
-        Me.Label6.TabIndex = 92
-        Me.Label6.Tag = "F03"
-        Me.Label6.Text = "ma doi tuong"
-        '
-        'ten_phi
-        '
-        Me.ten_phi.AutoSize = True
-        Me.ten_phi.Location = New System.Drawing.Point(233, 227)
-        Me.ten_phi.Name = "ten_phi"
-        Me.ten_phi.Size = New System.Drawing.Size(39, 13)
-        Me.ten_phi.TabIndex = 91
-        Me.ten_phi.Text = "ten phi"
-        '
-        'txtma_phi
-        '
-        Me.txtma_phi.Location = New System.Drawing.Point(130, 223)
-        Me.txtma_phi.Name = "txtma_phi"
-        Me.txtma_phi.Size = New System.Drawing.Size(100, 20)
-        Me.txtma_phi.TabIndex = 9
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(5, 227)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(39, 13)
-        Me.Label8.TabIndex = 90
-        Me.Label8.Tag = "F02"
-        Me.Label8.Text = "Ma phi"
-        '
-        'ten_bp
-        '
-        Me.ten_bp.AutoSize = True
-        Me.ten_bp.Location = New System.Drawing.Point(233, 201)
-        Me.ten_bp.Name = "ten_bp"
-        Me.ten_bp.Size = New System.Drawing.Size(37, 13)
-        Me.ten_bp.TabIndex = 89
-        Me.ten_bp.Text = "ten bp"
-        '
-        'txtma_bp
-        '
-        Me.txtma_bp.Location = New System.Drawing.Point(130, 197)
-        Me.txtma_bp.Name = "txtma_bp"
-        Me.txtma_bp.Size = New System.Drawing.Size(100, 20)
-        Me.txtma_bp.TabIndex = 8
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(5, 201)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(64, 13)
-        Me.Label10.TabIndex = 88
-        Me.Label10.Tag = "F01"
-        Me.Label10.Text = "Ma bo phan"
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(235, 19)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(63, 13)
+        Me.Label11.TabIndex = 95
+        Me.Label11.Tag = ""
+        Me.Label11.Text = "Số hóa đơn"
         '
         'frmsearch
         '
@@ -426,4 +449,6 @@ Partial Class frmsearch
     Friend WithEvents ten_bp As System.Windows.Forms.Label
     Friend WithEvents txtma_bp As System.Windows.Forms.TextBox
     Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents txtso_hd As TextBox
+    Friend WithEvents Label11 As Label
 End Class

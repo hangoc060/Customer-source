@@ -1,0 +1,57 @@
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frmPrint.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frmsearch.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.Frmmain.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frminput.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.Resources.resources
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.vbproj.GenerateResource.Cache
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.exe
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.pdb
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClPrint.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsControl2.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsLookup.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Clsql.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsRight.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsStpService.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsSV31.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\office.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsab.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clschat.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsViDe.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsPopUp.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsVno.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsMath.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\office.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.exe
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.xml
+E:\Source\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.pdb
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.exe
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.xml
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.pdb
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.exe
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.pdb
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Vpxc.xml
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\office.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\office.xml
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vpxc35\Vpxc35\obj\Release\Vpxc.vbproj.GenerateResource.Cache

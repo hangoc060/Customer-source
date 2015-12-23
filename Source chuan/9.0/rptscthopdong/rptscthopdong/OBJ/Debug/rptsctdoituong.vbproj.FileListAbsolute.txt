@@ -1,0 +1,32 @@
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\rptsctdoituong.exe
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\rptsctdoituong.pdb
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\rptsctdoituong.xml
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.Resources.resources
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.exe
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.xml
+D:\SOURCE\CRM\Rpt\rptsctdoituong\rptsctdoituong\obj\Debug\rptsctdoituong.pdb
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Debug\rptsctdoituong.xml
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Debug\rptsctdoituong.pdb
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Debug\rptscthopdong.exe.config

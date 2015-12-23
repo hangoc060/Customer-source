@@ -1,0 +1,111 @@
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.pdb
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.xml
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsList.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Clsql.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsRight.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsMath.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\clsab.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\ClsVno.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Frmmain.resources
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frminput.resources
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Resources.resources
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.vbproj.GenerateResource.Cache
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.exe
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.xml
+C:\Documents and Settings\CU BIN\Desktop\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.pdb
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.exe
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.xml
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.pdb
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.pdb
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.xml
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsStpService.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsRight.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsMath.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsab.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Interop.Excel.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\office.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsVno.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsPopUp.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ionic.Zip.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Microsoft.Vbe.Interop.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsPermit4Field.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\ResolveAssemblyReference.cache
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Frmmain.resources
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frminput.resources
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Resources.resources
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.vbproj.GenerateResource.Cache
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsViDe.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsControl2.dll
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe.config
+I:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldsctgs\Ldsctgs\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Ldsctgs.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldsctgs\Ldsctgs\obj\Debug\Ldsctgs.vbproj.GenerateResource.Cache

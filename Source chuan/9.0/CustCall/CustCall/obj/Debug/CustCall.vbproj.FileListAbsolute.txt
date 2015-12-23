@@ -1,0 +1,55 @@
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\CustCall.exe
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\CustCall.pdb
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\CustCall.xml
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsControl2.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\Clsql.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsStpService.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsVno.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\clsab.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsLookup.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\clschat.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\clsViDe.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\clsPopUp.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsRight.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Debug\ClsMath.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.Form1.resources
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.Resources.resources
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.exe
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.xml
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.pdb
+C:\Users\Truong\Box Sync\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.exe
+C:\Users\Truong\Box Sync\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.xml
+C:\Users\Truong\Box Sync\acc\7.1\crm\CustCall\CustCall\obj\Debug\CustCall.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\CustCall.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\CustCall.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\CustCall.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\CustCall.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsList.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsPermit4Field.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsRpt.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsphannhomdm.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\CustCall.vbproj.GenerateResource.Cache

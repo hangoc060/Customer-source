@@ -94,6 +94,7 @@ Public Class Frmmain
             strdk = strdk & " and  ma_kh like '" & search.txtma_kh.Text & "%'"
             strdk = strdk & " and ma_nv like '" & search.txtma_nv.Text & "%'"
             strdk = strdk & " and so_ct like '" & search.txtso_ct.Text & "%'"
+            strdk = strdk & " and so_hd like '" & search.txtso_hd.Text & "%'"
 
             query = Voucher.QueryLoad & " and " & strdk & " and stt_rec in " & "(select stt_rec from " & Voucher.Tabdetails(Voucher.TabFirst).TableName & " where ma_vt like '" & search.txtma_vt.Text
             query = query & "%' and tk_no like '" & search.txttk_no.Text

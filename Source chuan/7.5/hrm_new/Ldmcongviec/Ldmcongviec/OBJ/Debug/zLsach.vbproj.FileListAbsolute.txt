@@ -1,0 +1,30 @@
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\zLsach.exe
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\zLsach.pdb
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\zLsach.xml
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsControl2.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsList.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsLookup.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\Clsql.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\DriveInfoEx.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsVno.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsRight.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsMath.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\clsab.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\Interop.Excel.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\office.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\ClsSqlRemoting.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\clsPopUp.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\Ionic.Zip.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\bin\Debug\clsPermit4Field.dll
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\ResolveAssemblyReference.cache
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.Frmmain.resources
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.frminput.resources
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.Resources.resources
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.vbproj.GenerateResource.Cache
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.exe
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.xml
+D:\CAP NHAT DANH MUC\zLsach\zLsach\obj\Debug\zLsach.pdb
+C:\Users\hai\Desktop\zLsize\zLsise\obj\Debug\zLsach.exe
+C:\Users\hai\Desktop\zLsize\zLsise\obj\Debug\zLsach.xml
+C:\Users\hai\Desktop\zLsize\zLsise\obj\Debug\zLsach.pdb

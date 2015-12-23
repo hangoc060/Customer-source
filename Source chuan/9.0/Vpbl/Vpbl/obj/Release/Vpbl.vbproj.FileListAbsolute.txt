@@ -1,0 +1,76 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsSV31.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmChonCa.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frnVisa.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.formrestore.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.Form1.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmPrint.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.pdb
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.exe.config
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.exe
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.pdb
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Release\Vpbl.xml
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmChonCa.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frnVisa.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.formrestore.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.Resources.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.exe
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.xml
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.pdb
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmBanGiao.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmMain.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\bin\Release\Vpbl.exe.config
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.exe
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.xml
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.pdb
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\bin\Release\Vpbl.exe
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\bin\Release\Vpbl.pdb
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\bin\Release\Vpbl.xml
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmBanGiao.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmChonCa.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frnVisa.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.formrestore.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmMain.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.frmPrint.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.Resources.resources
+D:\Source\acc\7.1\voucher\Vpbl\Vpbl\obj\Release\Vpbl.vbproj.GenerateResource.Cache
+C:\Users\Truong\Downloads\Vpbl\Vpbl\bin\Release\Vpbl.exe.config
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.exe
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.xml
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.pdb
+C:\Users\Truong\Downloads\Vpbl\Vpbl\bin\Release\Vpbl.exe
+C:\Users\Truong\Downloads\Vpbl\Vpbl\bin\Release\Vpbl.pdb
+C:\Users\Truong\Downloads\Vpbl\Vpbl\bin\Release\Vpbl.xml
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.frmBanGiao.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.frmChonCa.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.frnVisa.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.formrestore.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.frmMain.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.frmPrint.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.Resources.resources
+C:\Users\Truong\Downloads\Vpbl\Vpbl\obj\Release\Vpbl.vbproj.GenerateResource.Cache

@@ -1,0 +1,48 @@
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.exe
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.pdb
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.xml
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsControl2.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsList.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsLookup.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Clsql.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsStpService.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsRight.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsMath.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\clsab.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Interop.Excel.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\office.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\ClsVno.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\clsPopUp.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Ionic.Zip.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\bin\Debug\clsPermit4Field.dll
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.Frmmain.resources
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.frminput.resources
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.Resources.resources
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.vbproj.GenerateResource.Cache
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.exe
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.xml
+C:\Users\hai\Desktop\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Ldmgiaban.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Interop.Excel.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\office.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Debug\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Debug\Ldmgiaban.vbproj.GenerateResource.Cache

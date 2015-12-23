@@ -1,0 +1,55 @@
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk35.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.pdb
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.exe
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.xml
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.pdb
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.exe
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.pdb
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\Vpnk.xml
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\clsab.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frminput.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.Resources.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk35.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Debug\Vpnk.frmFindHD2.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Debug\Vpnk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Debug\Vpnk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Debug\Vpnk.pdb

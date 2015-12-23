@@ -1,0 +1,81 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Clsql.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\DriveInfoEx.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\ClsMsg.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\ClPrint.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\office.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Control.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\bin\Debug\Form.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Frmmain.resources
+D:\Web\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.exe
+D:\Web\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.xml
+D:\Web\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.pdb
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.exe
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.xml
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.pdb
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.exe
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.pdb
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.xml
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsControl2.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsList.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsLookup.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Clsql.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsRight.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Interop.Excel.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\DriveInfoEx.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsMsg.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClPrint.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Control.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\office.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Form.dll
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\ResolveAssemblyReference.cache
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Frmmain.resources
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Resources.resources
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.vbproj.GenerateResource.Cache
+E:\VNT\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.frminput.resources
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.exe
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.xml
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.exe
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Ldmtinhthanh.xml
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsList.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\DriveInfoEx.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsMsg.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClPrint.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Control.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\office.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Form.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsList.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsList.xml
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\ResolveAssemblyReference.cache
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Frmmain.resources
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.frminput.resources
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.Resources.resources
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\obj\Debug\Ldmtinhthanh.vbproj.GenerateResource.Cache
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Clsql.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Clsql.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Clsql.xml
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsControl2.dll
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsControl2.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\ClsControl2.xml
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Control.pdb
+D:\Web\20090818\Ldmtinhthanh\Ldmtinhthanh\bin\Debug\Control.xml
+D:\Web\20090818\Ldmquanhuyen\Ldmquanhuyen\obj\Debug\Ldmtinhthanh.exe
+D:\Web\20090818\Ldmquanhuyen\Ldmquanhuyen\obj\Debug\Ldmtinhthanh.xml
+D:\Web\20090818\Ldmquanhuyen\Ldmquanhuyen\obj\Debug\Ldmtinhthanh.pdb

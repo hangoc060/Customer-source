@@ -1,0 +1,60 @@
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.exe
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.pdb
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.xml
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.Resources.resources
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.exe
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.xml
+D:\SOURCE\CRM\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\rptSoCtCnKh.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClPrint.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsControl2.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsLookup.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsRpt.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsSV31.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsPilot.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\clsViDe.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.frmfilter.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.MainForm.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.xml
+C:\Users\Truong\Box Sync\acc\9.0\rptSoCtCnKh\rptSoCtCnKh\obj\Debug\rptSoCtCnKh.pdb

@@ -1,0 +1,44 @@
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\PhoneManagement.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsList.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsPermit4Field.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsRpt.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsphannhomdm.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.frmMain.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.customer.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Clsql.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\Eval3.dll
+C:\Users\Truong\Downloads\CustCall\CustCall\bin\Debug\PhoneManagement.exe.config
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Debug\PhoneManagement.exe
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Debug\PhoneManagement.xml
+C:\Users\Truong\Downloads\CustCall\CustCall\obj\Debug\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.frmlistkh.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Debug\ClsSV31.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.frmordertmp.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.frmselector.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Debug\PhoneManagement.frmformprint.resources

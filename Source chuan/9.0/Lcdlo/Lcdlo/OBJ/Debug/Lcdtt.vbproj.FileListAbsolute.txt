@@ -1,0 +1,60 @@
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Lcdtt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Lcdtt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Lcdtt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.pdb
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.exe
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.xml
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Lcdtt\Lcdtt\obj\Debug\Lcdtt.pdb
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.exe
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.xml
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.pdb
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Lcdtt.exe
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Lcdtt.pdb
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Lcdtt.xml
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsControl2.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsList.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsLookup.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Clsql.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsVno.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clsab.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clschat.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clsViDe.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clsPopUp.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clsPermit4Field.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\clsphannhomdm.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsRight.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsStpService.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\ClsMath.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.Frmmain.resources
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.frminput.resources
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.Resources.resources
+D:\Source\acc\7.1\list\Lcdtt\Lcdtt\obj\Debug\Lcdtt.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Lcdlo\Lcdlo\obj\Debug\Lcdtt.exe
+C:\Users\Truong\Box Sync\acc\9.0\Lcdlo\Lcdlo\obj\Debug\Lcdtt.xml
+C:\Users\Truong\Box Sync\acc\9.0\Lcdlo\Lcdlo\obj\Debug\Lcdtt.pdb

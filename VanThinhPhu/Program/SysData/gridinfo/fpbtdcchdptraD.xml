@@ -27,17 +27,17 @@
   </xs:schema>
   <fpbtdcchdptraD>
     <gridid>fpbtdcchdptraD</gridid>
-    <columnsv>so_ct_tt,ngay_ct_tt,ma_nt_tt,ty_gia_tt,t_tt_nt,da_tt_nt,con_lai_nt,tien_nt,tien,tt_qd,ma_ct_tt,tk_no</columnsv>
-    <columnse>so_ct_tt,ngay_ct_tt,ma_nt_tt,ty_gia_tt,t_tt_nt,da_tt_nt,con_lai_nt,tien_nt,tien,tt_qd,ma_ct_tt,tk_no</columnse>
+    <columnsv>so_ct_tt,ngay_ct_tt,ma_nt_tt,ty_gia_tt,t_tt_nt,t_tt,da_tt_nt,con_lai_nt,tien_nt,tien,tt_qd,ma_ct_tt,tk_no</columnsv>
+    <columnse>so_ct_tt,ngay_ct_tt,ma_nt_tt,ty_gia_tt,t_tt_nt,t_tt,da_tt_nt,con_lai_nt,tien_nt,tien,tt_qd,ma_ct_tt,tk_no</columnse>
     <headersv>Số 
-chứng từ,Ngày chứng từ,Mã ngoại tệ hd,Tỷ giá hd,Phải trả,Đã trả,Còn lại,Thanh toán nt,Thanh toán,Thanh toán 
+chứng từ,Ngày chứng từ,Mã ngoại tệ hd,Tỷ giá hd,Phải trả ngoại tệ,Phải trả VNĐ,Đã trả,Còn lại,Thanh toán nt,Thanh toán,Thanh toán 
 qd,Mã chứng từ,Tài khoản</headersv>
-    <headerse>Voucher No.,Voucher Date,Invoice FC Code,Invoice Exchange Rate,Payable,Paid,Remaining ,FC Payment,Payment,Payment Convert,Voucher Code ,Account</headerse>
-    <widths>100,100,100,100,100,100,100,100,100,100,100,100</widths>
-    <formats>,,,f_tien,f_tien_nt,f_tien_nt,f_tien_nt,f_tien_nt,f_tien,f_tien_nt,,</formats>
-    <readonlys>1,1,1,1,1,1,1,0,0,0,1,1</readonlys>
-    <hides>0,0,0,0,0,0,0,0,0,0,0,0</hides>
-    <defaultvalues>,,,,,,,,,,,</defaultvalues>
-    <carrys>0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+    <headerse>Voucher No.,Voucher Date,Invoice FC Code,Invoice Exchange Rate,Payable,Payable,Paid,Remaining ,FC Payment,Payment,Payment Convert,Voucher Code ,Account</headerse>
+    <widths>100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,f_tien,f_tien_nt,f_tien,f_tien_nt,f_tien_nt,f_tien_nt,f_tien,f_tien_nt,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,0,0,0,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
   </fpbtdcchdptraD>
 </NewDataSet>

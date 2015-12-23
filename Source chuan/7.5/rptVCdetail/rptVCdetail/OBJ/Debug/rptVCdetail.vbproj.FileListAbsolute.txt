@@ -1,0 +1,36 @@
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\rptVCdetail.exe
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\rptVCdetail.pdb
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\rptVCdetail.xml
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.Resources.resources
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.exe
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.xml
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.pdb
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptVCdetail\rptVCdetail\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.pdb
+C:\Users\Truong\Box Sync\acc\3.5\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.xml
+C:\Users\Truong\Box Sync\acc\3.5\Rpt\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.pdb
+C:\Users\Truong\Box Sync\acc\7.5\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.xml
+C:\Users\Truong\Box Sync\acc\7.5\rptVCdetail\rptVCdetail\obj\Debug\rptVCdetail.pdb

@@ -1,0 +1,67 @@
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.exe
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.pdb
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.xml
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frminput.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.Resources.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk35.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.exe
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.xml
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.pdb
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmFindHD2.resources
+D:\Source\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\System.Windows.Forms.DataVisualization.dll
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.exe
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.xml
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.pdb
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.exe
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.pdb
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Vpnk.xml
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\clsab.dll
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\bin\Release\ClsMath.dll
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmFindHD2.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmPrint.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frmsearch.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.Frmmain.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.frminput.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk.Resources.resources
+E:\Box Sync\acc\5.0\voucher\Vpnk35\Vpnk35\obj\Release\Vpnk35.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\Vpnk.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\Vpnk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\Vpnk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\Vpnk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk35.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.frmFindHD2.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpnk35\Vpnk35\obj\Release\Vpnk35.vbproj.GenerateResource.Cache

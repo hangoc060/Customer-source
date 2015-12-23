@@ -1,0 +1,360 @@
+E:\VNT\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+E:\VNT\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+E:\VNT\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsList.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\Clsql.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\Control.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\DriveInfoEx.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\office.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VNT\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsMsg.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\Form.dll
+E:\VNT\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+E:\VNT\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+E:\VNT\Ldkh\Ldkh\bin\Debug\ClsSqlRemoting.dll
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\office.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\DriveInfoEx.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsSqlRemoting.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsList.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Clsql.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+E:\CRM\Source\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsList.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Clsql.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\DriveInfoEx.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Form.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Control.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsMsg.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsSqlRemoting.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsList.pdb
+D:\Web\dig\Source\Ldkh\Ldkh\bin\Debug\ClsList.xml
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+D:\Web\dig\Source\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.dgd.resources
+E:\CRM\Source\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+D:\SOURCE\CRM\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Ldkh\Ldkh\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\List\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\List\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsList.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Clsql.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsRpt.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsStpService.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\clsab.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsPilot.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+D:\0_SON_LAMVIEC\source_kh\ThanhMy\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+F:\STP01\E\STP SOURCE\ACC\3.5\List\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\clsab.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\ClsPilot.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+E:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsPilot.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldkh\Ldkh\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.exe.config
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.exe
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.pdb
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Ldkh.xml
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\clsab.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClPrint.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsPilot.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.dkloc.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.Frmmain.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.dlh.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.frmhd.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.frminput.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.kh.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.Resources.resources
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.exe
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.xml
+D:\Source\acc\5.0\list\Ldkh\Ldkh\obj\Debug\Ldkh.pdb
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsList.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\ClsRpt.dll
+D:\Source\acc\5.0\list\Ldkh\Ldkh\bin\Debug\System.Windows.Forms.DataVisualization.dll

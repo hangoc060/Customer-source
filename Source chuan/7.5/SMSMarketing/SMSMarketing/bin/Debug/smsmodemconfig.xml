@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <port>COM4</port>
+    <baudrate>115200</baudrate>
+  </Table1>
+</NewDataSet>

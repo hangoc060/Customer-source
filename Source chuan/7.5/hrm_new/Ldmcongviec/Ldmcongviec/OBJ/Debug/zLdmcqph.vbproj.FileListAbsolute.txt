@@ -1,0 +1,57 @@
+D:\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.exe
+D:\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.pdb
+D:\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.xml
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsControl2.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsList.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsLookup.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\Clsql.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\DriveInfoEx.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsVno.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsRight.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsMath.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\clsab.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\Interop.Excel.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\office.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\ClsSqlRemoting.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\clsPopUp.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\Ionic.Zip.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\zLdmcqph\zLdmcqph\bin\Debug\clsPermit4Field.dll
+D:\zLdmcqph\zLdmcqph\obj\Debug\ResolveAssemblyReference.cache
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.Frmmain.resources
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.frminput.resources
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.Resources.resources
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.vbproj.GenerateResource.Cache
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.exe
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.xml
+D:\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.pdb
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.exe
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.xml
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.pdb
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.exe
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.pdb
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\zLdmcqph.xml
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsControl2.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsList.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsLookup.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\Clsql.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\DriveInfoEx.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsVno.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsRight.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsMath.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\clsab.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\Interop.Excel.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\office.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\ClsSqlRemoting.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\clsPopUp.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\Ionic.Zip.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\bin\Debug\clsPermit4Field.dll
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\ResolveAssemblyReference.cache
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.Frmmain.resources
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.frminput.resources
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.Resources.resources
+D:\CAP NHAT DANH MUC\zLdmcqph\zLdmcqph\obj\Debug\zLdmcqph.vbproj.GenerateResource.Cache
+D:\CAP NHAT DANH MUC\zLloai\zLloai\obj\Debug\zLdmcqph.exe
+D:\CAP NHAT DANH MUC\zLloai\zLloai\obj\Debug\zLdmcqph.xml
+D:\CAP NHAT DANH MUC\zLloai\zLloai\obj\Debug\zLdmcqph.pdb

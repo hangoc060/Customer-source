@@ -1,0 +1,74 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Form1.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.frmfilterPrintBarcode.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.pdb
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.exe
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.xml
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.pdb
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.pdb
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.xml
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsab.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Form1.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.frmfilterPrintBarcode.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Resources.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe.config
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.pdb
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.xml
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Form1.resources
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.frmfilterPrintBarcode.resources
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Resources.resources
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.exe
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.xml
+C:\Users\Truong\Box Sync\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.pdb
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.exe
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.xml
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.pdb
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.frmfilterPrintBarcode.resources
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Release\printbarcodevt.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.exe
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.pdb
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\printbarcodevt.xml
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\bin\Release\ClsStpService.dll

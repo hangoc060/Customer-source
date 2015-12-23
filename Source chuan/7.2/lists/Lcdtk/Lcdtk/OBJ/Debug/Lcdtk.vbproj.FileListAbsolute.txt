@@ -1,0 +1,98 @@
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Lcdtk.exe
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Lcdtk.pdb
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Lcdtk.xml
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsControl2.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsList.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsLookup.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Clsql.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Interop.Excel.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\DriveInfoEx.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsRight.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsMath.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\office.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\ClsSqlRemoting.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\clsPopUp.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Ionic.Zip.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\CRM\Source\Lcdtk\Lcdtk\bin\Debug\clsPermit4Field.dll
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\ResolveAssemblyReference.cache
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Frmmain.resources
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.frminput.resources
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Resources.resources
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.vbproj.GenerateResource.Cache
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.exe
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.xml
+E:\CRM\Source\Lcdtk\Lcdtk\obj\Debug\Lcdtk.pdb
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.exe
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.xml
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.pdb
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Lcdtk.exe
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Lcdtk.pdb
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Lcdtk.xml
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Frmmain.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.frminput.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Resources.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Debug\Lcdtk.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Lcdtk\Lcdtk\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.exe
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.xml
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.pdb
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.exe
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.pdb
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.xml
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Frmmain.resources
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.frminput.resources
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Resources.resources
+D:\SOURCE\ACC\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.exe
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.xml
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.pdb
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.exe
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.pdb
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Lcdtk.xml
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Lcdtk\Lcdtk\obj\Debug\Lcdtk.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Debug\Lcdtk.exe
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Debug\Lcdtk.xml
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Debug\Lcdtk.pdb

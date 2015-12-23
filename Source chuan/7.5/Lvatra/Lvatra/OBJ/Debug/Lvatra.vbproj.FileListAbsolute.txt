@@ -1,0 +1,83 @@
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Lvatra.exe
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Lvatra.pdb
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Lvatra.xml
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsVno.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\office.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.dkloc.resources
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.Frmmain.resources
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.Resources.resources
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.sp.resources
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.exe
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+D:\SOURCE\CRM\Lvatra\Lvatra\obj\Debug\Lvatra.pdb
+D:\SOURCE\ACC\List\Lvatra\Lvatra\obj\Debug\Lvatra.exe
+D:\SOURCE\ACC\List\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+D:\SOURCE\ACC\List\Lvatra\Lvatra\obj\Debug\Lvatra.pdb
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.exe
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.pdb
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Lvatra.exe
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Lvatra.pdb
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Lvatra.xml
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.dkloc.resources
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.sp.resources
+E:\STP SOURCE\ACC\3.0\List\Lvatra\Lvatra\obj\Debug\Lvatra.vbproj.GenerateResource.Cache
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.exe
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.pdb
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Lvatra.exe
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Lvatra.pdb
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Lvatra.xml
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\ClsRight.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\ClsMath.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\clsab.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Interop.Excel.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\office.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\clsPopUp.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\clsPermit4Field.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\bin\Debug\Ionic.Zip.dll
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.dkloc.resources
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.Frmmain.resources
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.Resources.resources
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.sp.resources
+F:\STP01\#E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Lvatra\Lvatra\obj\Debug\Lvatra.pdb
+C:\Users\Truong\Box Sync\acc\7.5\Lvatra\Lvatra\obj\Debug\Lvatra.xml
+C:\Users\Truong\Box Sync\acc\7.5\Lvatra\Lvatra\obj\Debug\Lvatra.pdb

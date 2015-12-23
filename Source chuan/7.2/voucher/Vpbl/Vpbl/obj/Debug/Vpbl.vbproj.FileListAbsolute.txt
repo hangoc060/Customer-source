@@ -1,0 +1,47 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.Form1.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.formrestore.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsSV31.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmPrint.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frnVisa.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmChonCa.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.exe
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.pdb
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.xml
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\clsab.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmChonCa.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frnVisa.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.formrestore.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.Resources.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.exe
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.xml
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.pdb
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\Vpbl.exe.config
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmBanGiao.resources
+D:\Source\acc\5.0\voucher\Vpbl\Vpbl\obj\Debug\Vpbl.frmMain.resources

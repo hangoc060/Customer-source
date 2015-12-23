@@ -1,0 +1,208 @@
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clschat.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clschat.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\office.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsab.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clschat.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+D:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsab.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clschat.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+E:\Source\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+E:\Box Sync\acc\7.2\lists\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\office.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\Ldmvt\Ldmvt\bin\Release\ClsPilot.dll

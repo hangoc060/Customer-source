@@ -1,0 +1,204 @@
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\Vhd2.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\Vhd2.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\Vhd2.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClPrint.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsControl2.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsLookup.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsSV31.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\clsViDe.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.frminput.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd2.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236 - Copy\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsControl2.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsSV31.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmThuTien.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+D:\Source\acc\5.0\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmThuTien.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+E:\Box Sync\acc\7.1\voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.exe
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Vhd2.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsLookup.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsSV31.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsVno.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClPrint.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmdklayhd.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frmThuTien.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd236.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.exe
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsControl2.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Clsql.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsRight.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\ClsStpService.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\office.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\clschat.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Eval3.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\office.xml
+E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config

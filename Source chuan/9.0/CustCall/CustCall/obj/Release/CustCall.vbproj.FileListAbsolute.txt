@@ -1,0 +1,93 @@
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\CustCall.exe
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\CustCall.pdb
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\CustCall.xml
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\ClsControl2.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\Clsql.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\Ionic.Zip.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\clsab.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\ClsLookup.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\clschat.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\clsViDe.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\clsPopUp.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\ClsRight.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\ClsStpService.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\bin\Release\ClsMath.dll
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\ResolveAssemblyReference.cache
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.Form1.resources
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.Resources.resources
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.vbproj.GenerateResource.Cache
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.exe
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.xml
+C:\Users\truong\AppData\Local\Temporary Projects\CustCall\obj\Release\CustCall.pdb
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.exe
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.xml
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.pdb
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.exe
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.pdb
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.xml
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\Clsql.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsab.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clschat.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsViDe.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsPopUp.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsRight.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsStpService.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsMath.dll
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.Form1.resources
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.Resources.resources
+D:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsVno.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.exe
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.xml
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.pdb
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.exe
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.pdb
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\CustCall.xml
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsab.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsLookup.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clschat.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsViDe.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\clsPopUp.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsRight.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\bin\Release\ClsMath.dll
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.Form1.resources
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.Resources.resources
+E:\Source\acc\7.1\crm\CustCall\CustCall\obj\Release\CustCall.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsList.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsPermit4Field.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsRpt.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsphannhomdm.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\CustCall.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\CustCall.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.pdb
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\bin\Release\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.Form1.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.frmMain.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.exe
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.xml
+C:\Users\Truong\Box Sync\acc\9.0\CustCall\CustCall\obj\Release\PhoneManagement.pdb

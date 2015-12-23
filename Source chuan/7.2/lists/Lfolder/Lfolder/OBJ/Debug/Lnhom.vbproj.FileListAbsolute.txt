@@ -1,0 +1,55 @@
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\Lnhom.exe
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\Lnhom.pdb
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\Lnhom.xml
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.Frmmain.resources
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.frminput.resources
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.Resources.resources
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.exe
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.xml
+D:\SOURCE\CRM\Lnhom\Lnhom\obj\Debug\Lnhom.pdb
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.exe
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.xml
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.pdb
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Lnhom.exe
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Lnhom.pdb
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Lnhom.xml
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Lnhom\Lnhom\obj\Debug\Lnhom.vbproj.GenerateResource.Cache
+E:\Source\acc\7.2\lists\Lnhom\Lnhom\obj\Debug\Lnhom.exe
+E:\Source\acc\7.2\lists\Lnhom\Lnhom\obj\Debug\Lnhom.xml
+E:\Source\acc\7.2\lists\Lnhom\Lnhom\obj\Debug\Lnhom.pdb
+E:\Box Sync\acc\7.2\lists\Lfolder\Lfolder\obj\Debug\Lnhom.exe
+E:\Box Sync\acc\7.2\lists\Lfolder\Lfolder\obj\Debug\Lnhom.xml
+E:\Box Sync\acc\7.2\lists\Lfolder\Lfolder\obj\Debug\Lnhom.pdb

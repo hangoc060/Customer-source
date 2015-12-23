@@ -1,0 +1,4 @@
+C:\Users\Truong\Box Sync\acc\9.0\gt_dmvstt\gt_dmvstt\bin\Debug\rptGt_bcth.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\gt_dmvstt\gt_dmvstt\obj\Debug\rptGt_bcth.xml
+C:\Users\Truong\Box Sync\acc\9.0\gt_dmvstt\gt_dmvstt\obj\Debug\rptGt_bcth.pdb
+C:\Users\Truong\Box Sync\acc\9.0\gt_dmvstt\gt_dmvstt\bin\Debug\gt_dmvstt.exe.config

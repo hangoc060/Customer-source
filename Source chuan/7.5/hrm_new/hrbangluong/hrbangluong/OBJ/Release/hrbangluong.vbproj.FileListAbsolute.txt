@@ -1,0 +1,40 @@
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\hrbangluong.exe
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\hrbangluong.pdb
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\hrbangluong.xml
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\ClsMath.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\Ionic.Zip.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\clsab.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\clschat.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\clsPopUp.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\ClsPilot.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\Eval3.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\ClsRight.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\bin\Release\ClsStpService.dll
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.MainForm.resources
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.Resources.resources
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.vbproj.GenerateResource.Cache
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.exe
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.xml
+E:\Customer\Gas Huong Minh\source\hrbangluong\hrbangluong\obj\Release\hrbangluong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\hrbangluong.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\hrbangluong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\hrbangluong.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.frmfilter.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.MainForm.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\hrbangluong\hrbangluong\obj\Release\hrbangluong.vbproj.GenerateResource.Cache

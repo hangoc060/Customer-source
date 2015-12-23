@@ -1,0 +1,113 @@
+D:\zLdmtl\zLdmtl\bin\Debug\zLdmtl.exe
+D:\zLdmtl\zLdmtl\bin\Debug\zLdmtl.pdb
+D:\zLdmtl\zLdmtl\bin\Debug\zLdmtl.xml
+D:\zLdmtl\zLdmtl\bin\Debug\ClsControl2.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsList.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsLookup.dll
+D:\zLdmtl\zLdmtl\bin\Debug\Clsql.dll
+D:\zLdmtl\zLdmtl\bin\Debug\DriveInfoEx.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsVno.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsRight.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsMath.dll
+D:\zLdmtl\zLdmtl\bin\Debug\clsab.dll
+D:\zLdmtl\zLdmtl\bin\Debug\Interop.Excel.dll
+D:\zLdmtl\zLdmtl\bin\Debug\office.dll
+D:\zLdmtl\zLdmtl\bin\Debug\ClsSqlRemoting.dll
+D:\zLdmtl\zLdmtl\bin\Debug\clsPopUp.dll
+D:\zLdmtl\zLdmtl\bin\Debug\Ionic.Zip.dll
+D:\zLdmtl\zLdmtl\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\zLdmtl\zLdmtl\bin\Debug\clsPermit4Field.dll
+D:\zLdmtl\zLdmtl\obj\Debug\ResolveAssemblyReference.cache
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Frmmain.resources
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.frminput.resources
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Resources.resources
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.vbproj.GenerateResource.Cache
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+D:\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\zLdmtl.exe
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\zLdmtl.pdb
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\zLdmtl.xml
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\DriveInfoEx.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsVno.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsRight.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsMath.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\clsab.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\Interop.Excel.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\office.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsSqlRemoting.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\clsPopUp.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\Ionic.Zip.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\clsPermit4Field.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\ResolveAssemblyReference.cache
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Frmmain.resources
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.frminput.resources
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Resources.resources
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\obj\Debug\zLdmtl.vbproj.GenerateResource.Cache
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\Clsql.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsLookup.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsControl2.dll
+D:\CAP NHAT DANH MUC\zLdmtl\zLdmtl\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\zLdmtl.exe
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\zLdmtl.pdb
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\zLdmtl.xml
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\clsab.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Frmmain.resources
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.frminput.resources
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Resources.resources
+D:\SOURCE\ACC\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+E:\Source\acc\3.5\source_hai\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.frminput.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.Resources.resources
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.exe
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\obj\Debug\zLdmtl.pdb
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\zLdmtl.exe
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\zLdmtl.pdb
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\zLdmtl.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsControl2.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsList.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsLookup.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Clsql.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\office.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clsab.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clschat.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clsViDe.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clsPopUp.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Eval3.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\clsphannhomdm.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsRight.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsMath.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\office.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\lists\zLdmtl\zLdmtl\bin\Debug\ClsVno.dll

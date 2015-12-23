@@ -1,0 +1,42 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\Vcgb.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\Vcgb.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\Vcgb.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsSV31.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frmPrint.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frmsearch.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vcgb\Vcgb\obj\Release\Vcgb.pdb
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.exe
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.xml
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.pdb
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\Vcgb.exe
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\Vcgb.pdb
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\Vcgb.xml
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\ClsMath.dll
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\clsab.dll
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\ClsVno.dll
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\clsPopUp.dll
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\bin\Release\Ionic.Zip.dll
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frmPrint.resources
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frmsearch.resources
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.Frmmain.resources
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.frminput.resources
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.Resources.resources
+E:\Source\acc\7.2\voucher\Vcgb\Vcgb\obj\Release\Vcgb.vbproj.GenerateResource.Cache

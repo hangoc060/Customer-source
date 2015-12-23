@@ -1,0 +1,81 @@
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsVno.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\office.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsSqlRemoting.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbts\Lkbhspbts\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbts.exe
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbts.xml
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbts.pdb

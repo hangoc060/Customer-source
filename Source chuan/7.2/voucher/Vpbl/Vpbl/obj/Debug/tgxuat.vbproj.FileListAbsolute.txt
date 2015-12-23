@@ -1,0 +1,83 @@
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\tgxuat.exe
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\tgxuat.pdb
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\tgxuat.xml
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\office.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.Form1.resources
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.Resources.resources
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.exe
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.xml
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\tgxuat.pdb
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\tgxuat\tgxuat\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.exe
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.xml
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.pdb
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.exe
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.pdb
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.xml
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Form1.resources
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Resources.resources
+D:\SOURCE\ACC\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Form1.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\tgxuat.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Form1.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Calc\tgxuat\tgxuat\obj\Debug\tgxuat.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\tgxuat.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\tgxuat.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\voucher\Vpbl\Vpbl\obj\Debug\tgxuat.pdb

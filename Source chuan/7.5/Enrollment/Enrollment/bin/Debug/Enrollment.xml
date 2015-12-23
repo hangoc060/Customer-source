@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Enrollment
+</name>
+</assembly>
+<members>
+<member name="P:Enrollment.DbRecord.UserName">
+	<summary>
+ Get or set the user name.
+ </summary>
+</member><member name="P:Enrollment.DbRecord.Template">
+	<summary>
+ Get or set the user template.
+ </summary>
+</member><member name="P:Enrollment.DbRecord.UniqueID">
+	<summary>
+ Get the user unique identifier.
+ </summary>
+</member><member name="F:Enrollment.DbRecord.m_UserName">
+	<summary>
+ User name
+ </summary>
+</member><member name="F:Enrollment.DbRecord.m_Key">
+	<summary>
+ User unique key
+ </summary>
+</member><member name="F:Enrollment.DbRecord.m_Template">
+	<summary>
+ Finger template.
+ </summary>
+</member><member name="P:Enrollment.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Enrollment.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Enrollment.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

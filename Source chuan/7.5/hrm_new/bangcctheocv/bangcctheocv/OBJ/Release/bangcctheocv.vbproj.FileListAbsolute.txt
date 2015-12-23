@@ -1,0 +1,40 @@
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.exe
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.pdb
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.xml
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\ClsMath.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\Ionic.Zip.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\clsab.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\clschat.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\clsPopUp.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\ClsPilot.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\Eval3.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\ClsRight.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\bin\Release\ClsStpService.dll
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.MainForm.resources
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.Resources.resources
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.vbproj.GenerateResource.Cache
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.exe
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.xml
+E:\Customer\Gas Huong Minh\source\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\bangcctheocv.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.frmfilter.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.MainForm.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangcctheocv\bangcctheocv\obj\Release\bangcctheocv.vbproj.GenerateResource.Cache

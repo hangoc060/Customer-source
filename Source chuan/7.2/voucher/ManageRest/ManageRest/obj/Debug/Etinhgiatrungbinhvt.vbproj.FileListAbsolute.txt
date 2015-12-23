@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Etinhgiatrungbinhvt.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Etinhgiatrungbinhvt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Etinhgiatrungbinhvt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Clsql.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\DriveInfoEx.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClsMsg.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClPrint.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\office.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\ClsMath.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Control.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\bin\Debug\Form.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Etinhgiatrungbinhvt\obj\Debug\Etinhgiatrungbinhvt.pdb
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\Etinhgiatrungbinhvt.exe
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\Etinhgiatrungbinhvt.xml
+D:\SOURCE\CRM\tgxuat\tgxuat\obj\Debug\Etinhgiatrungbinhvt.pdb

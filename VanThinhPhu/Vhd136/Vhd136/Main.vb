@@ -54,12 +54,13 @@ Public Class Frmmain
 
             Clsql.Reg.SetValue("tu_ngay", search.Txttu_ngay.Value)
             Clsql.Reg.SetValue("den_ngay", search.TxtDen_ngay.Value)
-            Clsql.Reg.SetValue("ma_kh", search.txtma_kh.Text)
+
 
             Dim query As String
             Dim strdk As String = " ngay_ct between " & Voucher.conn.ConvertToSQLType(search.Txttu_ngay.Value) & " and " & Voucher.conn.ConvertToSQLType(search.TxtDen_ngay.Value)
             strdk = strdk & " and  ma_kh like '" & search.txtma_kh.Text & "%'"
             strdk = strdk & " and so_ct like '" & search.txtso_ct.Text & "%'"
+            strdk = strdk & " and so_hd like '" & search.txtso_hd.Text & "%'"
             strdk = strdk & " and dien_giai like N'%" & search.txtdien_giai.Text.Trim & "%'"
 
             strdk = strdk & " and  stt_rec in (select stt_rec from  " & Voucher.TabFirst & " where "

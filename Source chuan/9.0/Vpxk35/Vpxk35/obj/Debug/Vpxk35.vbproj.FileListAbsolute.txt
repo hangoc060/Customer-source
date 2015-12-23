@@ -1,0 +1,59 @@
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk35.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.pdb
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.exe
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.xml
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.pdb
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.exe
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.pdb
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\Vpxk.xml
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\clsab.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\ClsVno.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frmFindHD2.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.frminput.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.Resources.resources
+D:\Source\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk35.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.exe
+C:\Users\Truong\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.xml
+C:\Users\Truong\Box Sync\acc\5.0\voucher\Vpxk35\Vpxk35\obj\Debug\Vpxk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Debug\Vpxk.exe
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Debug\Vpxk.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\obj\Debug\Vpxk.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpxk35\Vpxk35\bin\Debug\Vpxk.exe.config

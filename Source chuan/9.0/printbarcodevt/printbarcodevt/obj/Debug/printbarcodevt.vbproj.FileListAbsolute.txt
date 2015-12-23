@@ -1,0 +1,44 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.Form1.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.frmfilterPrintBarcode.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClPrint.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.exe
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.pdb
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.xml
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\clsab.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.Form1.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.frmfilterPrintBarcode.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.Resources.resources
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.exe
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.xml
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.pdb
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\ClsSV31.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\clsViDe.dll
+D:\Source\acc\5.0\list\printbarcodevt\printbarcodevt\bin\Debug\printbarcodevt.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.exe
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.xml
+C:\Users\Truong\Box Sync\acc\9.0\printbarcodevt\printbarcodevt\obj\Debug\printbarcodevt.pdb

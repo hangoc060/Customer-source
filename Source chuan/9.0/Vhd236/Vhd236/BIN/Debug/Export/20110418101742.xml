@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+ <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>STP Accounting Enterprise 2011 Version 3.1</Author>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <TabRatio>500</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="1" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" x:CharSet="161" x:Family="Swiss" ss:Size="18"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="0"/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="ty_gia1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="ty_gia2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="han_tt1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="han_tt2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="sl_xuat1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="sl_xuat2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="gia_ban_nt1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="gia_ban_nt2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="gia_ban1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="gia_ban2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_nt1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_nt2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="ty_le_ck1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="ty_le_ck2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_ck_nt1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_ck_nt2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_ck1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_ck2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="thue_suat1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="thue_suat2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_thue_nt1">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_thue_nt2">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_thue1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_thue2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="gia_von1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="gia_von2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="tien_xuat1">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="tien_xuat2">
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s80">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s82">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="ARIAL" x:CharSet="161" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+  <Worksheet ss:Name="BC">
+   <Table ss:ExpandedColumnCount="42" ss:ExpandedRowCount="12" x:FullColumns="1"
+    x:FullRows="1">
+    <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="120"/>
+    <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="80"/>
+    <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="22" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="24" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="25" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="26" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="27" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="28" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="29" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="30" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="31" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="32" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="33" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="34" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="35" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="36" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="37" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="38" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="39" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="40" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="41" ss:AutoFitWidth="0" ss:Width="100"/>
+    <Column ss:Index="42" ss:AutoFitWidth="0" ss:Width="110"/>
+    <Row ss:Index="1">
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Số chứng từ</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Ngày chứng từ</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Số hóa đơn</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Số seri</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Ngày hóa đơn</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Diễn giải</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Nhóm hàng</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã ngoại tệ</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tỷ giá</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Nhân viên thực hiện</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Hạn thanh toán</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã khách</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tên người giao dịch</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã vật tư</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">ĐVT</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Kho</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Số lượng</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Giá bán nt</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Giá bán</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền nt</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK nợ</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK dt</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tỷ lệ CK</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền Ck nt</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền CK</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK CK</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã thuế</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Thuế suất</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK thuế</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tk đối ứng</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền thuế nt</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền thuế</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">PX giá dd</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Giá vốn</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Tiền vốn</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK vật tư</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">TK giá vốn</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã số thuế</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã bộ phận</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã phí</Data></Cell>
+     <Cell ss:StyleID="s64"><Data ss:Type="String">Mã vụ việc dự án</Data></Cell>
+    </Row>
+    <Row>
+     <Cell ss:StyleID="s62"><Data ss:Type="String">df</Data></Cell>
+     <Cell ss:StyleID="s74"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s74"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="ty_gia1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="han_tt1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="sl_xuat1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="gia_ban_nt1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="gia_ban1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="tien_nt1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="tien1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+     <Cell ss:StyleID="ty_le_ck1"><Data ss:Type="Number">0</Data></Cell>
+     <Cell ss:StyleID="tien_ck_nt1"><Data ss:Type="Number">0</Dat

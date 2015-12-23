@@ -1,0 +1,23 @@
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\bangtinhluong.exe
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\bangtinhluong.pdb
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\bangtinhluong.xml
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\ClsMath.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\Ionic.Zip.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\clsab.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\clschat.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\clsPopUp.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\ClsPilot.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\Eval3.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\ClsRight.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\bin\Release\ClsStpService.dll
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.MainForm.resources
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.Resources.resources
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.vbproj.GenerateResource.Cache
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.exe
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.xml
+E:\Customer\Gas Huong Minh\source\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\bangtinhluong\bangtinhluong\obj\Release\bangtinhluong.pdb

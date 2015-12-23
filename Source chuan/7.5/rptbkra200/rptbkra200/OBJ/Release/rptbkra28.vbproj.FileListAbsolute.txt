@@ -1,0 +1,74 @@
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.frmfilter.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.MainForm.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.Resources.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.exe.config
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.exe
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.pdb
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.xml
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\Clsql.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsRpt.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\clsab.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsPilot.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.exe
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.xml
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.pdb
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.exe.config
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.exe
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.xml
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.pdb
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.exe
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.pdb
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\rptbkra28.xml
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\Clsql.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsRpt.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsMath.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\clsab.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\clschat.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\clsViDe.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\clsPopUp.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsPilot.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsRight.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\ClsStpService.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.frmfilter.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.MainForm.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.Resources.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Release\rptbkra28.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\rptbkra200.exe.config
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\rptbkra200.exe
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\rptbkra200.pdb
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\rptbkra200.xml
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\clsab.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\clschat.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\ClsPilot.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.frmfilter.resources
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.MainForm.resources
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.Resources.resources
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra28.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.exe
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.xml
+E:\Box Sync\acc\7.5\rptbkra200\rptbkra200\obj\Release\rptbkra200.pdb

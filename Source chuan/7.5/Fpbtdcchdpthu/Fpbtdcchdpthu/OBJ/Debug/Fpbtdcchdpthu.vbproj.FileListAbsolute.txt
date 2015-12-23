@@ -1,0 +1,31 @@
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Fpbtdcchdpthu.exe
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Fpbtdcchdpthu.pdb
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Fpbtdcchdpthu.xml
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.frmfilter.resources
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.MainForm.resources
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.Resources.resources
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.exe
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.xml
+D:\SOURCE\CRM\Rpt\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.pdb
+C:\Users\Truong\Box Sync\acc\7.5\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.xml
+C:\Users\Truong\Box Sync\acc\7.5\Fpbtdcchdpthu\Fpbtdcchdpthu\obj\Debug\Fpbtdcchdpthu.pdb

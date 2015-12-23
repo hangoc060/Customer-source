@@ -1,0 +1,65 @@
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint2.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frminput.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Resources.resources
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc135.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.exe
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.xml
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\obj\Release\Vpc1.pdb
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\Vpc1.exe
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\Vpc1.pdb
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\Vpc1.xml
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vpc135\Vpc135\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\Vpc1.exe
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\Vpc1.pdb
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\Vpc1.xml
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\clsab.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint2.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmsearch.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Frmmain.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frminput.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Resources.resources
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc135.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.exe
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.xml
+E:\Box Sync\acc\7.1\voucher\Vpc135\Vpc135\obj\Release\Vpc1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.exe
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.xml
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\Vpc1.exe
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\Vpc1.pdb
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\Vpc1.xml
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint2.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc1.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vpc135\Vpc135\obj\Release\Vpc135.vbproj.GenerateResource.Cache

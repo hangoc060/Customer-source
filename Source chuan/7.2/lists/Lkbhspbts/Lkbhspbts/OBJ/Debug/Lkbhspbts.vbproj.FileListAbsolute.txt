@@ -1,0 +1,110 @@
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+D:\SOURCE\CRM\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+D:\SOURCE\ACC\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Lkbhspbts\Lkbhspbts\bin\Debug\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.exe
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.xml
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.pdb
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.exe
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.pdb
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Lkbhspbts.xml
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsRight.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsMath.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clsab.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\office.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsVno.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clsPopUp.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frmfilter.resources
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.frminput.resources
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.Resources.resources
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\obj\Debug\Lkbhspbts.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsControl2.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsList.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\ClsLookup.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Clsql.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clschat.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clsViDe.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Eval3.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\clsphannhomdm.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\office.xml
+E:\Box Sync\acc\7.2\lists\Lkbhspbts\Lkbhspbts\bin\Debug\Microsoft.Office.Interop.Excel.xml

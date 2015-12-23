@@ -1,0 +1,72 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\office.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\DriveInfoEx.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Microsoft.Vbe.Interop.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Interop.Excel.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsSqlRemoting.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.pdb
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.exe
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.xml
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.pdb
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.exe
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.pdb
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.xml
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsSqlRemoting.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsab.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\bin\Release\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Frmmain.resources
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.frminput.resources
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Resources.resources
+D:\Source\acc\5.0\list\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.exe
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.xml
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.pdb
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.exe
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.pdb
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Ldmgiaban.xml
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\ClsSqlRemoting.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\ClsVno.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.frmDcgia.resources
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.frminput.resources
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.Resources.resources
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\obj\Release\Ldmgiaban.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\office.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\office.xml
+E:\Box Sync\acc\7.2\lists\Ldmgiaban\Ldmgiaban\bin\Release\Microsoft.Office.Interop.Excel.xml

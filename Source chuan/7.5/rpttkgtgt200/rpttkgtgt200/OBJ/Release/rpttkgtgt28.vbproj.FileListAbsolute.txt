@@ -1,0 +1,43 @@
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.frmfilter.resources
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.frminput.resources
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.frmkbmau.resources
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.MainForm.resources
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.Resources.resources
+D:\Source\acc\5.0\rpt\rpttkgtgt28\rpttkgtgt28\obj\Release\rpttkgtgt28.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.frmfilter.resources
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.frminput.resources
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.frmkbmau.resources
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.MainForm.resources
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.Resources.resources
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt28.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\rpttkgtgt200.exe
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\rpttkgtgt200.pdb
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\rpttkgtgt200.xml
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClPrint.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsList.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsRpt.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\office.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clsab.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clschat.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsPilot.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clsPermit4Field.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\clsphannhomdm.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\office.xml
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.exe
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.xml
+E:\Box Sync\acc\7.5\rpttkgtgt200\rpttkgtgt200\obj\Release\rpttkgtgt200.pdb

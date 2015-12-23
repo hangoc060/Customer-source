@@ -1,0 +1,62 @@
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.exe
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.pdb
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.xml
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsSV.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frmPrint.resources
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frmsearch.resources
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.Frmmain.resources
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frminput.resources
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.Resources.resources
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk20.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.exe
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.xml
+D:\SOURCE\ACC\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frmPrint.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frmsearch.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.frminput.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk.Resources.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\obj\Debug\Vpnk20.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Vpnk.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsSV.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\DriveInfoEx.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\clsViDe.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsSqlRemoting.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpnk20\Vpnk20\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vdm0\Vdm0\obj\Debug\Vpnk.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vdm0\Vdm0\obj\Debug\Vpnk.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vdm0\Vdm0\obj\Debug\Vpnk.pdb

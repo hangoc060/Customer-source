@@ -1,0 +1,154 @@
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\bin\Debug\office.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClPrint.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsControl2.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsLookup.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRpt.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsViDe.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+G:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+G:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+G:\STP01\E\STP SOURCE\ACC\3.6\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+D:\Source\acc\5.0\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe.config
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.exe
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.pdb
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\rptbkra28.xml
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClPrint.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsControl2.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsLookup.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\Clsql.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRpt.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsMath.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\clsab.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\clschat.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\clsViDe.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\clsPopUp.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsPilot.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsRight.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\bin\Debug\ClsStpService.dll
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.frmfilter.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.MainForm.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.Resources.resources
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.vbproj.GenerateResource.Cache
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.exe
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.xml
+D:\Source\acc\7.1\rpt\rptbkra28\rptbkra28\obj\Debug\rptbkra28.pdb

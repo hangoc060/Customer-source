@@ -1,0 +1,114 @@
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Lnkcv.exe
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Lnkcv.pdb
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Lnkcv.xml
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsControl2.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsList.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsLookup.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Clsql.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Interop.Excel.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\office.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Ionic.Zip.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\DriveInfoEx.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\clsPopUp.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\clsPermit4Field.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsRight.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsSqlRemoting.dll
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\ClsMath.dll
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\ResolveAssemblyReference.cache
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.Frmmain.resources
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.frminput.resources
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.Resources.resources
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.vbproj.GenerateResource.Cache
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.exe
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.xml
+E:\CRM\Source\LNKCV\LNKCV\obj\Debug\Lnkcv.pdb
+E:\CRM\Source\LNKCV\LNKCV\bin\Debug\clsCalendar.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.exe
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.xml
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.pdb
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Lnkcv.exe
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Lnkcv.pdb
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Lnkcv.xml
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\clsCalendar.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\DriveInfoEx.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsSqlRemoting.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\Interop.SQLDMO.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\LNKCV\LNKCV\obj\Debug\Lnkcv.vbproj.GenerateResource.Cache
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.exe
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.xml
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.pdb
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.exe
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.pdb
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.xml
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsCalendar.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsControl2.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsList.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsLookup.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Clsql.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsRight.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\office.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsab.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clschat.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsViDe.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsPopUp.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsPermit4Field.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsphannhomdm.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsStpService.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsMath.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.Frmmain.resources
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.frminput.resources
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.Resources.resources
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.vbproj.GenerateResource.Cache
+D:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsGoogleSync.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.exe
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.xml
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.pdb
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.exe
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.pdb
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.xml
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsCalendar.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsControl2.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsGoogleSync.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsList.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsLookup.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Clsql.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsRight.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsStpService.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Ionic.Zip.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsab.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clschat.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsViDe.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsPopUp.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsPermit4Field.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\clsphannhomdm.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\ClsMath.dll
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.Frmmain.resources
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.frminput.resources
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.Resources.resources
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\obj\Debug\Lnkcv.vbproj.GenerateResource.Cache
+E:\Source\acc\7.2\lists\LNKCV\LNKCV\bin\Debug\Lnkcv.exe.config

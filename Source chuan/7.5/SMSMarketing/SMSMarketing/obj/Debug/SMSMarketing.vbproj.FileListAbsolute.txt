@@ -1,0 +1,11 @@
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\bin\Debug\SMSMarketing.exe
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\bin\Debug\SMSMarketing.pdb
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\bin\Debug\SMSMarketing.xml
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.config.resources
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.exe
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.xml
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.pdb
+C:\Users\Truong\Box Sync\acc\7.5\SMSMarketing\SMSMarketing\obj\Debug\SMSMarketing.SendSMS.resources

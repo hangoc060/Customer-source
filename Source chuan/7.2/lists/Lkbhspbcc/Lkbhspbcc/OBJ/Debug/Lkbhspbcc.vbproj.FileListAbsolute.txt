@@ -1,0 +1,56 @@
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.exe
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.pdb
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.xml
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsList.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Clsql.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsMath.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsab.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\office.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsVno.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.Frmmain.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.frmfilter.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.frminput.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.Resources.resources
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.exe
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.xml
+C:\Documents and Settings\Me\Desktop\20101007_hai\danh mục\source\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.pdb
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.exe
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.xml
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.pdb
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.exe
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.pdb
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Lkbhspbcc.xml
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.frmfilter.resources
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.frminput.resources
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.Resources.resources
+E:\STP SOURCE\ACC\3.0\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\ccdc\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.pdb
+E:\Box Sync\acc\7.2\lists\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.exe
+E:\Box Sync\acc\7.2\lists\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.xml
+E:\Box Sync\acc\7.2\lists\Lkbhspbcc\Lkbhspbcc\obj\Debug\Lkbhspbcc.pdb

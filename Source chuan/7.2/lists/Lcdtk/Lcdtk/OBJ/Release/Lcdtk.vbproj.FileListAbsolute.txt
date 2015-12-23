@@ -1,0 +1,36 @@
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Release\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Release\Lcdtk.Frmmain.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Release\Lcdtk.frminput.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Release\Lcdtk.Resources.resources
+D:\SOURCE\CRM\Lcdtk\Lcdtk\obj\Release\Lcdtk.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.Frmmain.resources
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.frminput.resources
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.Resources.resources
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.vbproj.GenerateResource.Cache
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Lcdtk.exe
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Lcdtk.pdb
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Lcdtk.xml
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsControl2.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsList.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Clsql.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsStpService.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\office.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsLookup.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clschat.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Eval3.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clsPermit4Field.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\clsphannhomdm.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsRight.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\office.xml
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.exe
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.xml
+E:\Box Sync\acc\7.2\lists\Lcdtk\Lcdtk\obj\Release\Lcdtk.pdb

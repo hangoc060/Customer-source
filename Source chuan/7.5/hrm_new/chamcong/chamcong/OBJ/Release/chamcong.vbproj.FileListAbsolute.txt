@@ -1,0 +1,40 @@
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\chamcong.exe
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\chamcong.pdb
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\chamcong.xml
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\ClsMath.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\Ionic.Zip.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\clsab.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\clschat.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\clsPopUp.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\ClsPilot.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\Eval3.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\ClsRight.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\bin\Release\ClsStpService.dll
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.MainForm.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.Resources.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.vbproj.GenerateResource.Cache
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.exe
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.xml
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Release\chamcong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\chamcong.exe
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\chamcong.pdb
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\chamcong.xml
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.frmfilter.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.MainForm.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.Resources.resources
+C:\Users\Truong\Box Sync\acc\7.5\hrm_new\chamcong\chamcong\obj\Release\chamcong.vbproj.GenerateResource.Cache
